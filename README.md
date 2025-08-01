@@ -1,2 +1,2 @@
 # National-water-survey-data.
-To support data-driven decision-making on water resource allocation and highlight disparities in access across regions and demographics.
+To support data-driven decision-making on water resource allocation and highlight disparities in access across regions and demographics. An interactive data visualization dashboard built to assess the Maji Ndogo water crisis using national water survey data. The dashboard offers a comprehensive look into water access, usage patterns, and population distribution across water sources in Maji Ndogo.
